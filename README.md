@@ -1,6 +1,6 @@
 # TERIYAKI
 Татализатор  с возможностью  ставить ставки.
 Участники :
-Blichnaruto -  Гл.Проекта
-Snowtaken  - Уч. Проекта
-Pushkin -  Мендж. Проекта
+Blichnaruto -  Гл.Проект;
+Pushkin - Менеджер проекта;
+SnowTaken - Уч. Проекта.
