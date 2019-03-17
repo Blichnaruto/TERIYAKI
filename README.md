@@ -1,6 +1,6 @@
 # TERIYAKI
-Татализатор  с возможностью  ставить ставки.
+Татализатор  с возможностью  ставить ставки / Betting with the ability to bet
 Участники :
-Blichnaruto -  Гл.Проект;
-Pushkin - Менеджер проекта;
-SnowTaken - Уч. Проекта.
+Blichnaruto - SEO dev;
+PushkinK - SIO dev;
+Bahovchuk - C# dev.
