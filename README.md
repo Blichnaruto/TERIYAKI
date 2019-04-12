@@ -7,5 +7,5 @@ It is an entertainment application, with the opportunity to feel the excitement 
 The application will provide the user the opportunity to play without risking, and at the same time with pleasure;
 Участники/ DEVELOPERS :
 Blichnaruto - C# DEVELOPER;
-PushkinK - SEO DEVELOPER;
+vasssaa - SEO DEVELOPER;
 Bahovchuk - C# DEVELOPER.
