@@ -1,0 +1,23 @@
+D:\Колька и его друзья\SuperHorses\SuperHorses\bin\Debug\SuperHorses.exe.config
+D:\Колька и его друзья\SuperHorses\SuperHorses\bin\Debug\SuperHorses.exe
+D:\Колька и его друзья\SuperHorses\SuperHorses\bin\Debug\SuperHorses.pdb
+D:\Колька и его друзья\SuperHorses\SuperHorses\obj\Debug\SuperHorses.csprojResolveAssemblyReference.cache
+D:\Колька и его друзья\SuperHorses\SuperHorses\obj\Debug\SuperHorses.AnimalEventsLog.resources
+D:\Колька и его друзья\SuperHorses\SuperHorses\obj\Debug\SuperHorses.MainForm.resources
+D:\Колька и его друзья\SuperHorses\SuperHorses\obj\Debug\SuperHorses.csproj.GenerateResource.Cache
+D:\Колька и его друзья\SuperHorses\SuperHorses\obj\Debug\SuperHorses.exe
+D:\Колька и его друзья\SuperHorses\SuperHorses\obj\Debug\SuperHorses.pdb
+D:\Колька и его друзья\SuperHorses\SuperHorses\bin\Debug\Interop.Microsoft.Office.Interop.Word.8.7.dll
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\bin\Debug\SuperHorses.exe.config
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\bin\Debug\SuperHorses.exe
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\bin\Debug\Interop.Microsoft.Office.Interop.Word.8.7.dll
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\bin\Debug\stdole.dll
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.csprojAssemblyReference.cache
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.AnimalEventsLog.resources
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.MainForm.resources
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.csproj.GenerateResource.cache
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.csproj.CoreCompileInputs.cache
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.csproj.CopyComplete
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.exe
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\obj\Debug\SuperHorses.pdb
+D:\3 kurs\2 sem\Проджект 2 ТРПО\SuperHorses\SuperHorses\bin\Debug\SuperHorses.pdb

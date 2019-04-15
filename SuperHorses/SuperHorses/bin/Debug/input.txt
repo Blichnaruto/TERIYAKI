@@ -1,0 +1,30 @@
+﻿Bolbec, Возраст: 4, Вес: 517, A Fleming
+Slaney Street, Возраст: 4, Вес: 512, Francis J Flood
+Ballyhubbock, Возраст: 4, Вес: 582, K C Sexton
+Bertoni, Возраст: 4, Вес: 498, Mrs J Harrington
+Bombay Basil, Возраст: 4, Вес: 513, Joseph Hennessy
+Casamicciola, Возраст: 4, Вес: 416, F J Lacy
+Desert Grey, Возраст: 4, Вес: 533, January Monday
+Ebkaares, Возраст: 4, Вес: 609, P J Rothwell
+Gold Seal, Возраст: 4, Вес: 504, Joseph P O'Brien
+Roman Rock, Возраст: 4, Вес: 602, M F Morris
+Shedding, Возраст: 4, Вес: 588, W J Burke
+Wake Up Early, Возраст: 4, Вес: 498, Francis J Flood
+Waterville Dancer, Возраст: 4, Вес: 417, C Byrnes
+Dubaimolly, Возраст: 4, Вес: 422, Francis J Flood
+Getaway Gold, Возраст: 4, Вес: 399, M J McDonagh
+Moonbal, Возраст: 4, Вес: 602, T Cooper
+Dreamtide, Возраст: 4, Вес: 644, W P Mullins
+Urban Poete, Возраст: 4, Вес: 598, H de Bromhead
+Very Meri, Возраст: 4, Вес: 537, A E Lynch
+Ever Love, Возраст: 4, Вес: 480, J A Kinsella
+Benbulben Blue, Возраст: 6, Вес: 614, J T R Dreaper
+Bensachuine, Возраст: 7,  Вес: 499, Denis Hogan
+Fly De Megaudais, Возраст: 5, Вес: 502, M J McDonagh
+Kanturk Bard, Возраст: 5, Вес: 508, M Winters
+Magnium, Возраст: 5, Вес: 495, A J Martin
+Paris Texas, Возраст: 5, Вес: 397, Joseph P O'Brien
+Roccorovermann, Возраст: 5, Вес: 502, P Neville
+Sheldon Cooper, Возраст: 5, Вес: 516, W J Burke
+Sticky Situation, Возраст: 5, Вес: 501, P Neville 
+Takemeback, Возраст: 5, Вес: 499, P C O'Connor
